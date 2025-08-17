@@ -5,7 +5,9 @@
 
 
 ---
-
+(GEREKLİ) **BU TEMAYI BU EKLENTİLER İLE BERABER KULLANIN!**
+<img src="./images/eklentiler.png" alt="eklentiler" width="100%"/>
+---
 ### **Ekran Görüntüleri:**
 
 <img src="./images/home.png" alt="home" width="100%"/>
