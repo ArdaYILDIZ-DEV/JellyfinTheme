@@ -34,6 +34,7 @@ Benim kullandığım temayı Jellyfin'e eklemek için aşağıdaki satırı Dash
 @import url('https://cdn.jsdelivr.net/gh/ArdaYILDIZ-DEV/JellyfinTheme@latest/theme.css');
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 @import url('https://cdn.jsdelivr.net/gh/ArdaYILDIZ-DEV/JellyfinTheme@latest/colorschemes/gray.css');
+
 .adminDrawerLogo img {
   content: url(https://cdn.jsdelivr.net/gh/ArdaYILDIZ-DEV/JellyfinTheme@latest/affine-light.webp) !important;
 }
