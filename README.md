@@ -31,6 +31,7 @@ Two login wallpaper options: Minimal and Stylish.
 Benim kullandığım temayı Jellyfin'e eklemek için aşağıdaki satırı Dashboard > General > Custom CSS bölümüne kopyalayın:
 
 ```
+@import url('https://cdn.jsdelivr.net/gh/ArdaYILDIZ-DEV/JellyfinTheme@latest/round-icons.css');
 @import url('https://cdn.jsdelivr.net/gh/ArdaYILDIZ-DEV/JellyfinTheme@latest/theme.css');
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 @import url('https://cdn.jsdelivr.net/gh/ArdaYILDIZ-DEV/JellyfinTheme@latest/colorschemes/gray.css');
