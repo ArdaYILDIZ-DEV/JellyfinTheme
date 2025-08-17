@@ -1,4 +1,6 @@
 
+<video src="./show.mp4" controls loop muted autoplay width="100%"></video>
+
 # JellyfinTheme
 
 [Ultrachromic](https://github.com/CTalvio/Ultrachromic), [Glassmorphism](https://github.com/alexyle/jellyfin-theme), [Scyfin](https://github.com/loof2736/scyfin), [JellyTheme](https://github.com/alexyle/jellyfin-theme) ve [Zombie](https://github.com/MakD/zombie-release/tree/main) temalarından esinlenerek oluşturulmuş, Jellyfin için minimalist ve zarif bir tema.
