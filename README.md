@@ -1,5 +1,5 @@
+![Demo](./images/demo.gif)
 
-<video src="./show.mp4" controls loop muted autoplay width="100%"></video>
 
 # JellyfinTheme
 
