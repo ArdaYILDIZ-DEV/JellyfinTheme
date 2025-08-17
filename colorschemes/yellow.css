@@ -1,0 +1,16 @@
+/* Yellow color scheme */
+
+:root {
+  --accent: 239, 253, 162;         /* #EFFDA2 */
+  --accent-off: 139, 149, 107;     /* #8B956B */
+  --dark: 32, 35, 30;              /* #20231E */
+  --darkest: 24, 28, 21;           /* #181C15 */
+  --dark-highlight: 68, 76, 60;    /* #444C3C */
+  --dark-apparent: 38, 43, 34;     /* #262B22 */
+  
+  --stylish-login: url("https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/login-wallpapers/stylish-yellow.png");
+}
+
+#loginPage {background: url("https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/login-wallpapers/minimal-yellow.png") !important;}
+.layout-tv .backgroundContainer, .layout-desktop .backgroundContainer {background: url("https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/gradients/yellow.png") no-repeat center center;}
+.sessionAppInfo img {filter: invert(40%) sepia(70%) saturate(285%) hue-rotate(30deg) brightness(150%) contrast(60%);}

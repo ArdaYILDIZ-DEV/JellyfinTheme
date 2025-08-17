@@ -1,0 +1,16 @@
+/* Green color scheme */
+
+:root {
+  --accent: 184, 242, 197;         /* #B8F2C5 */
+  --accent-off: 109, 132, 114;     /* #6D8472 */
+  --dark: 27, 36, 29;              /* #1B241D */
+  --darkest: 19, 28, 22;           /* #131C16 */
+  --dark-highlight: 59, 69, 60;    /* #3B453C */
+  --dark-apparent: 31, 41, 33;     /* #1F2921 */
+  
+  --stylish-login: url("https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/login-wallpapers/stylish-green.png");
+}
+
+#loginPage {background: url("https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/login-wallpapers/minimal-green.png") !important;}
+.layout-tv .backgroundContainer, .layout-desktop .backgroundContainer {background: url("https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/gradients/green.png") no-repeat center center;}
+.sessionAppInfo img {filter: invert(40%) sepia(70%) saturate(200%) hue-rotate(85deg) brightness(130%) contrast(60%);}

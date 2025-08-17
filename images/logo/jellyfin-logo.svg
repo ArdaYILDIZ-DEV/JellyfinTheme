@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="365"
+   width="365"
+   version="1.1"
+   id="svg29"
+   sodipodi:docname="jellyfin-logo.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   inkscape:export-filename="jellyfin.png"
+   inkscape:export-xdpi="99.419182"
+   inkscape:export-ydpi="99.419182"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs33">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2692"
+       x="-0.013840752"
+       y="-0.017038533"
+       width="1.0299883"
+       height="1.0369169">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood2682" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite2684" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.5"
+         result="blur"
+         id="feGaussianBlur2686" />
+      <feOffset
+         dx="0.2"
+         dy="0.2"
+         result="offset"
+         id="feOffset2688" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite2"
+         id="feComposite2690" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter3184"
+       x="-0.21501198"
+       y="-0.23700681"
+       width="1.430024"
+       height="1.7463825">
+      <feFlood
+         flood-opacity="0.333333"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3174" />
+      <feComposite
+         in="SourceGraphic"
+         in2="flood"
+         operator="in"
+         result="composite1"
+         id="feComposite3176" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2.1"
+         result="blur"
+         id="feGaussianBlur3178" />
+      <feOffset
+         dx="4.57967e-15"
+         dy="5.79198"
+         result="offset"
+         id="feOffset3180" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3182" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter230"
+       x="-0.21501198"
+       y="-0.23700675"
+       width="1.430024"
+       height="1.7463822">
+      <feFlood
+         flood-opacity="0.333333"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood220" />
+      <feComposite
+         in="SourceGraphic"
+         in2="flood"
+         operator="in"
+         result="composite1"
+         id="feComposite222" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2.1"
+         result="blur"
+         id="feGaussianBlur224" />
+      <feOffset
+         dx="4.57967e-15"
+         dy="5.79198"
+         result="offset"
+         id="feOffset226" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite228" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter242"
+       x="-0.21501198"
+       y="-0.23700675"
+       width="1.430024"
+       height="1.7463822">
+      <feFlood
+         flood-opacity="0.333333"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood232" />
+      <feComposite
+         in="SourceGraphic"
+         in2="flood"
+         operator="in"
+         result="composite1"
+         id="feComposite234" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2.1"
+         result="blur"
+         id="feGaussianBlur236" />
+      <feOffset
+         dx="4.57967e-15"
+         dy="5.79198"
+         result="offset"
+         id="feOffset238" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite240" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter2078"
+       x="-0.055363011"
+       y="-0.068154037"
+       width="1.110726"
+       height="1.1363081">
+      <feGaussianBlur
+         stdDeviation="2 2"
+         result="blur"
+         id="feGaussianBlur2076" />
+    </filter>
+    <clipPath
+       id="d">
+      <rect
+         height="152"
+         width="192"
+         id="rect2786"
+         x="0"
+         y="0" />
+    </clipPath>
+    <mask
+       id="c">
+      <g
+         filter="url(#b)"
+         id="g2783">
+        <rect
+           fill-opacity="0.52803"
+           height="128"
+           width="128"
+           id="rect2781"
+           x="0"
+           y="0" />
+      </g>
+    </mask>
+    <filter
+       id="b"
+       height="1"
+       width="1"
+       x="0"
+       y="0">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix2778" />
+    </filter>
+    <clipPath
+       id="f">
+      <rect
+         height="152"
+         width="192"
+         id="rect2794"
+         x="0"
+         y="0" />
+    </clipPath>
+    <mask
+       id="e-3">
+      <g
+         filter="url(#b)"
+         id="g2791">
+        <rect
+           fill-opacity="0.52803"
+           height="128"
+           width="128"
+           id="rect2789"
+           x="0"
+           y="0" />
+      </g>
+    </mask>
+    <filter
+       id="filter3078"
+       height="1"
+       width="1"
+       x="0"
+       y="0">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix3076" />
+    </filter>
+    <clipPath
+       id="h">
+      <rect
+         height="152"
+         width="192"
+         id="rect2802"
+         x="0"
+         y="0" />
+    </clipPath>
+    <mask
+       id="g">
+      <g
+         filter="url(#b)"
+         id="g2799">
+        <rect
+           fill-opacity="0.52803"
+           height="128"
+           width="128"
+           id="rect2797"
+           x="0"
+           y="0" />
+      </g>
+    </mask>
+    <filter
+       id="filter3087"
+       height="1"
+       width="1"
+       x="0"
+       y="0">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix3085" />
+    </filter>
+    <clipPath
+       id="j">
+      <rect
+         height="152"
+         width="192"
+         id="rect2810"
+         x="0"
+         y="0" />
+    </clipPath>
+    <mask
+       id="i">
+      <g
+         filter="url(#b)"
+         id="g2807">
+        <rect
+           fill-opacity="0.52803"
+           height="128"
+           width="128"
+           id="rect2805"
+           x="0"
+           y="0" />
+      </g>
+    </mask>
+    <filter
+       id="filter3096"
+       height="1"
+       width="1"
+       x="0"
+       y="0">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix3094" />
+    </filter>
+    <clipPath
+       id="l">
+      <rect
+         height="152"
+         width="192"
+         id="rect2818"
+         x="0"
+         y="0" />
+    </clipPath>
+    <mask
+       id="k">
+      <g
+         filter="url(#b)"
+         id="g2815">
+        <rect
+           fill-opacity="0.52803"
+           height="128"
+           width="128"
+           id="rect2813"
+           x="0"
+           y="0" />
+      </g>
+    </mask>
+    <filter
+       id="filter3105"
+       height="1"
+       width="1"
+       x="0"
+       y="0">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix3103" />
+    </filter>
+    <clipPath
+       id="n">
+      <rect
+         height="152"
+         width="192"
+         id="rect2826"
+         x="0"
+         y="0" />
+    </clipPath>
+    <mask
+       id="m">
+      <g
+         filter="url(#b)"
+         id="g2823">
+        <rect
+           fill-opacity="0.52803"
+           height="128"
+           width="128"
+           id="rect2821"
+           x="0"
+           y="0" />
+      </g>
+    </mask>
+    <filter
+       id="filter3114"
+       height="1"
+       width="1"
+       x="0"
+       y="0">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix3112" />
+    </filter>
+    <radialGradient
+       id="o"
+       cx="140.51187"
+       cy="332.55624"
+       gradientTransform="matrix(2.101223,0,0,1.188184,-171.24669,-295.13769)"
+       gradientUnits="userSpaceOnUse"
+       r="60">
+      <stop
+         offset="0"
+         stop-color="#5e5c64"
+         stop-opacity="0.596078"
+         id="stop2829" />
+      <stop
+         offset="1"
+         stop-color="#ffffff"
+         stop-opacity="0"
+         id="stop2831" />
+    </radialGradient>
+    <radialGradient
+       id="p"
+       cx="44.280457"
+       cy="234.81686"
+       gradientTransform="matrix(1.297444,0,0,1.159327,-21.992432,-223.18874)"
+       gradientUnits="userSpaceOnUse"
+       r="60">
+      <stop
+         offset="0"
+         stop-color="#ffffff"
+         stop-opacity="0.580392"
+         id="stop2834" />
+      <stop
+         offset="0.591753"
+         stop-color="#d2d2d2"
+         stop-opacity="0.286275"
+         id="stop2836" />
+      <stop
+         offset="1"
+         stop-color="#ffffff"
+         stop-opacity="0"
+         id="stop2838" />
+    </radialGradient>
+    <clipPath
+       id="d-6">
+      <rect
+         height="152"
+         width="192"
+         id="rect2786-7"
+         x="0"
+         y="0" />
+    </clipPath>
+    <mask
+       id="c-5">
+      <g
+         filter="url(#b)"
+         id="g2783-3"
+         style="filter:url(#b-6)">
+        <rect
+           fill-opacity="0.52803"
+           height="128"
+           width="128"
+           id="rect2781-5"
+           x="0"
+           y="0" />
+      </g>
+    </mask>
+    <filter
+       id="b-6"
+       height="1"
+       width="1"
+       x="0"
+       y="0">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix2778-2" />
+    </filter>
+    <clipPath
+       id="f-9">
+      <rect
+         height="152"
+         width="192"
+         id="rect2794-1"
+         x="0"
+         y="0" />
+    </clipPath>
+    <mask
+       id="e-3-2">
+      <g
+         filter="url(#b)"
+         id="g2791-7"
+         style="filter:url(#b-6)">
+        <rect
+           fill-opacity="0.52803"
+           height="128"
+           width="128"
+           id="rect2789-0"
+           x="0"
+           y="0" />
+      </g>
+    </mask>
+    <filter
+       id="filter3841"
+       height="1"
+       width="1"
+       x="0"
+       y="0">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix3839" />
+    </filter>
+    <clipPath
+       id="h-9">
+      <rect
+         height="152"
+         width="192"
+         id="rect2802-3"
+         x="0"
+         y="0" />
+    </clipPath>
+    <mask
+       id="g-6">
+      <g
+         filter="url(#b)"
+         id="g2799-0"
+         style="filter:url(#b-6)">
+        <rect
+           fill-opacity="0.52803"
+           height="128"
+           width="128"
+           id="rect2797-6"
+           x="0"
+           y="0" />
+      </g>
+    </mask>
+    <filter
+       id="filter3850"
+       height="1"
+       width="1"
+       x="0"
+       y="0">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix3848" />
+    </filter>
+    <clipPath
+       id="j-2">
+      <rect
+         height="152"
+         width="192"
+         id="rect2810-6"
+         x="0"
+         y="0" />
+    </clipPath>
+    <mask
+       id="i-1">
+      <g
+         filter="url(#b)"
+         id="g2807-8"
+         style="filter:url(#b-6)">
+        <rect
+           fill-opacity="0.52803"
+           height="128"
+           width="128"
+           id="rect2805-7"
+           x="0"
+           y="0" />
+      </g>
+    </mask>
+    <filter
+       id="filter3859"
+       height="1"
+       width="1"
+       x="0"
+       y="0">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix3857" />
+    </filter>
+    <clipPath
+       id="l-9">
+      <rect
+         height="152"
+         width="192"
+         id="rect2818-2"
+         x="0"
+         y="0" />
+    </clipPath>
+    <mask
+       id="k-0">
+      <g
+         filter="url(#b)"
+         id="g2815-2"
+         style="filter:url(#b-6)">
+        <rect
+           fill-opacity="0.52803"
+           height="128"
+           width="128"
+           id="rect2813-3"
+           x="0"
+           y="0" />
+      </g>
+    </mask>
+    <filter
+       id="filter3868"
+       height="1"
+       width="1"
+       x="0"
+       y="0">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix3866" />
+    </filter>
+    <clipPath
+       id="n-7">
+      <rect
+         height="152"
+         width="192"
+         id="rect2826-5"
+         x="0"
+         y="0" />
+    </clipPath>
+    <mask
+       id="m-9">
+      <g
+         filter="url(#b)"
+         id="g2823-2"
+         style="filter:url(#b-6)">
+        <rect
+           fill-opacity="0.52803"
+           height="128"
+           width="128"
+           id="rect2821-2"
+           x="0"
+           y="0" />
+      </g>
+    </mask>
+    <filter
+       id="filter3877"
+       height="1"
+       width="1"
+       x="0"
+       y="0">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix3875" />
+    </filter>
+    <radialGradient
+       id="o-8"
+       cx="140.51187"
+       cy="332.55624"
+       gradientTransform="matrix(2.101223,0,0,1.188184,-171.24669,-295.13769)"
+       gradientUnits="userSpaceOnUse"
+       r="60">
+      <stop
+         offset="0"
+         stop-color="#5e5c64"
+         stop-opacity="0.596078"
+         id="stop2829-9" />
+      <stop
+         offset="1"
+         stop-color="#ffffff"
+         stop-opacity="0"
+         id="stop2831-7" />
+    </radialGradient>
+    <radialGradient
+       id="p-3"
+       cx="44.280457"
+       cy="234.81686"
+       gradientTransform="matrix(1.297444,0,0,1.159327,-21.992432,-223.18874)"
+       gradientUnits="userSpaceOnUse"
+       r="60">
+      <stop
+         offset="0"
+         stop-color="#ffffff"
+         stop-opacity="0.580392"
+         id="stop2834-6" />
+      <stop
+         offset="0.591753"
+         stop-color="#d2d2d2"
+         stop-opacity="0.286275"
+         id="stop2836-1" />
+      <stop
+         offset="1"
+         stop-color="#ffffff"
+         stop-opacity="0"
+         id="stop2838-2" />
+    </radialGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5"
+       id="linearGradient7"
+       x1="204.46996"
+       y1="93.506981"
+       x2="195.44267"
+       y2="824.32404"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient5"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.99679488;"
+         offset="1"
+         id="stop7" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview31"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.24151874"
+     inkscape:cx="-329.167"
+     inkscape:cy="1099.2936"
+     inkscape:window-width="1920"
+     inkscape:window-height="1044"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg29" />
+  <linearGradient
+     id="e"
+     gradientTransform="matrix(1.0015,0,0,0.99993,72.09,56.015)"
+     gradientUnits="userSpaceOnUse"
+     x1="43.844002"
+     x2="-60"
+     y1="234"
+     y2="234">
+    <stop
+       offset="0"
+       stop-color="#d5d3cf"
+       id="stop2"
+       style="stop-color:#723d91;stop-opacity:1;" />
+    <stop
+       offset="0.038"
+       stop-color="#e3e2df"
+       id="stop4"
+       style="stop-color:#e5cbee;stop-opacity:1;" />
+    <stop
+       offset="0.077"
+       stop-color="#c0bfbc"
+       id="stop6"
+       style="stop-color:#a770db;stop-opacity:1;" />
+    <stop
+       offset="0.92299998"
+       stop-color="#c0bfbc"
+       id="stop8"
+       style="stop-color:#a152d6;stop-opacity:1;" />
+    <stop
+       offset="0.96200001"
+       stop-color="#e3e2df"
+       id="stop10"
+       style="stop-color:#e4c5ed;stop-opacity:1;" />
+    <stop
+       offset="1"
+       stop-color="#d5d3cf"
+       id="stop12"
+       style="stop-color:#723e8e;stop-opacity:1;" />
+  </linearGradient>
+  <g
+     id="g1"
+     transform="matrix(9.1249997,0,0,9.1249997,-109.49999,-109.49999)"
+     style="fill:url(#linearGradient7);fill-opacity:1">
+    <path
+       id="path8-6"
+       style="fill:#f9f9f9;fill-opacity:1;stroke-width:1.07834"
+       d="M 32.002568 11.999999 C 26.709174 11.999999 9.6696259 42.892711 12.267765 48.109804 C 14.865904 53.326896 49.167595 53.266732 51.737372 48.109804 C 54.30715 42.952877 37.295105 11.999999 32.002568 11.999999 z M 32.005137 19.922731 C 35.473045 19.922731 46.619466 40.20161 44.935788 43.582834 C 43.252112 46.963201 20.778143 47.001017 19.0747 43.582834 C 17.371256 40.16465 28.537226 19.922731 32.005137 19.922731 z M 32.000856 27.529966 C 30.232799 27.529966 24.541216 37.524147 25.409674 39.211473 C 26.278133 40.898797 37.734177 40.880362 38.592252 39.211473 C 39.450328 37.54258 33.768903 27.530805 32.000856 27.529966 z " />
+  </g>
+</svg>

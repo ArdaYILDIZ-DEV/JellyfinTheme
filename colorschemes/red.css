@@ -1,0 +1,16 @@
+/* Red color scheme */
+
+:root {
+  --accent: 253, 180, 180;         /* #FDB4B4 */
+  --accent-off: 139, 106, 106;     /* #8B6A6A */
+  --dark: 39, 27, 27;              /* #271B1B */
+  --darkest: 30, 21, 21;           /* #1E1515 */
+  --dark-highlight: 77, 56, 56;    /* #4D3838 */
+  --dark-apparent: 43, 30, 30;     /* #2B1E1E */
+  
+  --stylish-login: url("https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/login-wallpapers/stylish-red.png");
+}
+
+#loginPage {background: url("https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/login-wallpapers/minimal-red.png") !important;}
+.layout-tv .backgroundContainer, .layout-desktop .backgroundContainer {background: url("https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/gradients/red.png") no-repeat center center;}
+.sessionAppInfo img {filter: invert(55%) sepia(90%) saturate(260%) hue-rotate(315deg) brightness(135%) contrast(80%);}
